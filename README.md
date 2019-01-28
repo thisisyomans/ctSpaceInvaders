@@ -1,4 +1,4 @@
 # Space Invaders 2019 Version
 * made using the ct.js engine as a test game
 * written in JavaScript
-* ![Image of Game](../master/githubstuff/ctSpaceShooter.png)
+* ![Image of Game](../master/githubstuff/ctSpaceShooter.PNG)
