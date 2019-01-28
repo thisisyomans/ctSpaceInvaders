@@ -1,0 +1,411 @@
+{
+  "ctjsVersion": "1.0.0-next-1",
+  "notes": "/* empty */",
+  "libs": {
+    "keyboard": {},
+    "place": {},
+    "random": {}
+  },
+  "graphs": [
+    {
+      "name": "PlayerShip",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        56,
+        37
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 112,
+      "imgHeight": 75,
+      "width": 112,
+      "height": 75,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i142b3143-f57c-464d-b4d3-a7305dffe844.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\playerShip2_blue.png",
+      "shape": "rect",
+      "left": 50,
+      "right": 50,
+      "top": 12,
+      "bottom": 32,
+      "uid": "142b3143-f57c-464d-b4d3-a7305dffe844",
+      "lastmod": 1548570078987
+    },
+    {
+      "name": "Laser_Blue",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        6,
+        27
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 13,
+      "imgHeight": 54,
+      "width": 13,
+      "height": 54,
+      "offx": 0,
+      "offy": 0,
+      "origname": "id6217108-06e4-4a73-bf6c-3d9a379d2478.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\Lasers\\laserBlue16.png",
+      "shape": "rect",
+      "left": 6,
+      "right": 7,
+      "top": 27,
+      "bottom": 27,
+      "uid": "d6217108-06e4-4a73-bf6c-3d9a379d2478",
+      "lastmod": 1548570199279
+    },
+    {
+      "name": "laserRed09",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        0,
+        0
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 48,
+      "imgHeight": 46,
+      "width": 48,
+      "height": 46,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i37d67a63-9950-496b-997b-601cc84f8d8b.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\Lasers\\laserRed09.png",
+      "shape": "rect",
+      "left": 0,
+      "right": 48,
+      "top": 0,
+      "bottom": 46,
+      "uid": "37d67a63-9950-496b-997b-601cc84f8d8b",
+      "lastmod": 1548570177254
+    },
+    {
+      "name": "enemyRed3",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        51,
+        42
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 103,
+      "imgHeight": 84,
+      "width": 103,
+      "height": 84,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i04731881-1ef8-42ee-8483-16a6700091b9.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\Enemies\\enemyRed3.png",
+      "shape": "circle",
+      "left": 0,
+      "right": 103,
+      "top": 0,
+      "bottom": 84,
+      "uid": "04731881-1ef8-42ee-8483-16a6700091b9",
+      "r": 42,
+      "lastmod": 1548570249665
+    },
+    {
+      "name": "meteorGrey_med1",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        21,
+        21
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 43,
+      "imgHeight": 43,
+      "width": 43,
+      "height": 43,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i7fb0ee71-a5f0-4209-af96-019f17c15596.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\Meteors\\meteorGrey_med1.png",
+      "shape": "circle",
+      "left": 0,
+      "right": 43,
+      "top": 0,
+      "bottom": 43,
+      "uid": "7fb0ee71-a5f0-4209-af96-019f17c15596",
+      "r": 21,
+      "lastmod": 1548570219346
+    },
+    {
+      "name": "meteorGrey_big1",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        50,
+        42
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 101,
+      "imgHeight": 84,
+      "width": 101,
+      "height": 84,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i285e6b4b-b6f1-4134-b49f-8b9a2adb5902.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\Meteors\\meteorGrey_big1.png",
+      "shape": "circle",
+      "left": 0,
+      "right": 101,
+      "top": 0,
+      "bottom": 84,
+      "uid": "285e6b4b-b6f1-4134-b49f-8b9a2adb5902",
+      "r": 42,
+      "lastmod": 1548570229857
+    },
+    {
+      "name": "black",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        0,
+        0
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 256,
+      "imgHeight": 256,
+      "width": 256,
+      "height": 256,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i7723e77e-9f5f-4c74-aa1c-20a486be1ca9.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\Backgrounds\\black.png",
+      "shape": "rect",
+      "left": 0,
+      "right": 256,
+      "top": 0,
+      "bottom": 256,
+      "uid": "7723e77e-9f5f-4c74-aa1c-20a486be1ca9"
+    },
+    {
+      "name": "buttonRed",
+      "untill": 0,
+      "grid": [
+        1,
+        1
+      ],
+      "axis": [
+        0,
+        0
+      ],
+      "marginx": 0,
+      "marginy": 0,
+      "imgWidth": 222,
+      "imgHeight": 39,
+      "width": 222,
+      "height": 39,
+      "offx": 0,
+      "offy": 0,
+      "origname": "i718727af-08e0-463d-97a5-b3456d89d2e1.png",
+      "source": "C:\\Users\\tanej\\Desktop\\gameassets\\spaceshooter\\PNG\\UI\\buttonRed.png",
+      "shape": "rect",
+      "left": 0,
+      "right": 222,
+      "top": 0,
+      "bottom": 39,
+      "uid": "718727af-08e0-463d-97a5-b3456d89d2e1"
+    }
+  ],
+  "types": [
+    {
+      "name": "PlayerShip",
+      "depth": 0,
+      "oncreate": "this.gameOver = false;",
+      "onstep": "if (ct.keyboard.down['left']) {\n    this.x -= 4 * ct.delta;\n}\nif (ct.keyboard.down['right']) {\n    this.x += 4 * ct.delta;\n}\n\nif (ct.keyboard.down['up']) {\n    this.y -= 4 * ct.delta;\n}\nif (ct.keyboard.down['down']) {\n    this.y += 4 * ct.delta;\n}\n\nif (this.x < 0) {\n    this.x = 0;\n}\nif (this.x > ct.width) {\n    this.x = ct.width;\n}\n\nif (this.y < 0) {\n    this.y = 0;\n}\nif (this.y > ct.height) {\n    this.y = ct.height;\n}\n\nif (ct.keyboard.pressed['space']) {\n    ct.types.copy('BlueLaser', this.x, this.y);\n}\n\nthis.move();\n\nvar hostile = ct.place.occupied(this, this.x, this.y, 'Hostile');\nif (hostile) {\n    hostile.kill = true;\n    ct.room.lives--;\n    if (ct.room.lives <= 0) {\n        this.kill = true;\n        setTimeout(function() {\n           ct.rooms.switch('room1');\n        }, 500);\n    }\n}",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "c6399e36-5e1e-430e-9e79-22764bf22d86",
+      "graph": "142b3143-f57c-464d-b4d3-a7305dffe844",
+      "lastmod": 1548637039457
+    },
+    {
+      "name": "MidMeteor",
+      "depth": 0,
+      "oncreate": "this.speed = ct.random.range(1, 3);\nthis.direction = ct.random.range(270 - 30, 270 + 30);\nthis.ctype = 'Hostile';",
+      "onstep": "this.move();\n\nif (this.y > ct.height + 80) {\n    this.kill = true;\n    //console.log(\"asteroid has been destroyed\");\n}\n\nvar collided = ct.place.meet(this, this.x, this.y, 'BlueLaser');\nif (collided) {\n    collided.kill = true;\n    this.kill = true;\n    ct.room.score += 50;\n}",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "b6b0f13a-9d3a-4ea7-89f8-eb5921086b6e",
+      "graph": "7fb0ee71-a5f0-4209-af96-019f17c15596",
+      "lastmod": 1548629028948
+    },
+    {
+      "name": "BigMeteor",
+      "depth": 0,
+      "oncreate": "this.speed = ct.random.range(1, 3);\nthis.direction = ct.random.range(270 - 30, 270 + 30);\nthis.ctype = 'Hostile';",
+      "onstep": "this.move();\n\nif (this.y > ct.height + 80) {\n    this.kill = true;\n}\n\nvar collided = ct.place.meet(this, this.x, this.y, 'BlueLaser');\nif (collided) {\n    collided.kill = true;\n    this.kill = true;\n    ct.room.score += 75;\n    for (i = 0; i <= 2; i++) {\n        ct.types.copy('MidMeteor', this.x, this.y);\n    }\n}",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "4ec2f31e-0b78-434f-bac1-5b6ca6ed55ae",
+      "graph": "285e6b4b-b6f1-4134-b49f-8b9a2adb5902",
+      "lastmod": 1548629019544
+    },
+    {
+      "name": "RedLaser",
+      "depth": 0,
+      "oncreate": "this.speed = 8;\nthis.direction = 270;\n\nthis.rotation = ct.random.deg();\nthis.ctype = 'Hostile';",
+      "onstep": "if (this.y > ct.height + 40) {\n    this.kill = true;\n}\n\nthis.move();\n\nthis.rotation += 4 * ct.delta;",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "59d912af-77cf-46e0-99ca-be3cce757404",
+      "graph": "37d67a63-9950-496b-997b-601cc84f8d8b",
+      "lastmod": 1548629061141
+    },
+    {
+      "name": "BlueLaser",
+      "depth": 0,
+      "oncreate": "this.speed = 18;\nthis.direction = 90;",
+      "onstep": "if (this.y < -40) {\n    this.kill = true;\n}\n\nthis.move();",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "16694f7c-e4dc-4b29-9fca-05c6dab279a7",
+      "graph": "d6217108-06e4-4a73-bf6c-3d9a379d2478",
+      "lastmod": 1548627689559
+    },
+    {
+      "name": "EnemyShip",
+      "depth": 0,
+      "oncreate": "this.speed = 3;\nthis.direction = 270;\nthis.x = ct.random.range(10, ct.width - 10);\nthis.bulletTimer = 0;\nthis.ctype = 'Hostile';",
+      "onstep": "this.bulletTimer -= ct.delta;\nif (this.bulletTimer <= 0) {\n    this.bulletTimer = 100;\n    ct.types.copy('RedLaser', this.x, this.y + 32);\n}\n\nthis.move();\n\nif (this.y > ct.height + 80) {\n    this.kill =  true;\n    //console.log(\"enemy has been destroyed\");\n}\n\nvar collided = ct.place.meet(this, this.x, this.y, 'BlueLaser');\nif (collided) {\n    collided.kill = true;\n    this.kill = true;\n    ct.room.score += 100;\n}",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "81c32933-a012-4af9-bc09-87a129400c54",
+      "graph": "04731881-1ef8-42ee-8483-16a6700091b9",
+      "lastmod": 1548630080340
+    },
+    {
+      "name": "buttonRed",
+      "depth": 0,
+      "oncreate": "",
+      "onstep": "this.move();",
+      "ondraw": "",
+      "ondestroy": "",
+      "uid": "291f9954-d02c-4a54-a1b2-f912fa8026a1",
+      "graph": "718727af-08e0-463d-97a5-b3456d89d2e1",
+      "lastmod": 1548637170613
+    }
+  ],
+  "sounds": [],
+  "styles": [
+    {
+      "name": "ScoreText",
+      "uid": "a45f40c1-87a0-4902-b510-729940a40495",
+      "origname": "s729940a40495",
+      "font": {
+        "family": "Roboto",
+        "size": 32,
+        "weight": "900",
+        "italic": false,
+        "halign": "left"
+      },
+      "lastmod": 1548628669924,
+      "fill": {
+        "type": "0",
+        "color": "#CC373A"
+      }
+    }
+  ],
+  "rooms": [
+    {
+      "name": "room1",
+      "oncreate": "this.asteroidTimer = 20;\nthis.enemyTimer = 180;\nthis.score = 0;\nthis.lives = 3;\n\nthis.scoreLabel = new PIXI.Text('Score: ' + this.score, ct.styles.get('ScoreText'));\nthis.addChild(this.scoreLabel);\nthis.scoreLabel.x = 30;\nthis.scoreLabel.y = 30;\n\nthis.livesLabel = new PIXI.Text('Lives: ' + this.score, ct.styles.get('ScoreText'));\nthis.addChild(this.livesLabel);\nthis.livesLabel.x = ct.width - 200;\nthis.livesLabel.y = 30;",
+      "onstep": "this.asteroidTimer -= ct.delta;\nif (this.asteroidTimer <= 0) {\n    this.asteroidTimer = ct.random.range(20, 200);\n    ct.types.copy(ct.random.dice('BigMeteor', 'MidMeteor'), ct.random(ct.width), -100);\n}\n\nthis.enemyTimer -= ct.delta;\nif (this.enemyTimer <= 0) {\n    this.enemyTimer = ct.random.range(180, 400);\n    ct.types.copy('EnemyShip', ct.random(ct.width), -100);\n}\n\n/*if (ct.types.PlayerShip.gameOver) {\n    ct.rooms.switch('Main');\n}*/",
+      "ondraw": "this.scoreLabel.text = 'Score: ' + this.score;\nthis.livesLabel.text = 'Lives: ' + this.lives;",
+      "onleave": "",
+      "width": 800,
+      "height": 600,
+      "backgrounds": [
+        {
+          "depth": -5,
+          "graph": "7723e77e-9f5f-4c74-aa1c-20a486be1ca9",
+          "extends": {}
+        }
+      ],
+      "layers": [
+        {
+          "depth": 0,
+          "copies": [
+            {
+              "x": 384,
+              "y": 512,
+              "uid": "c6399e36-5e1e-430e-9e79-22764bf22d86"
+            }
+          ]
+        }
+      ],
+      "uid": "2bcb1e40-de05-4380-9846-ebaa603165d3",
+      "thumbnail": "ebaa603165d3",
+      "gridX": 64,
+      "gridY": 64,
+      "tiles": [
+        {
+          "depth": -10,
+          "tiles": []
+        }
+      ],
+      "lastmod": 1548637050023
+    }
+  ],
+  "starting": 0,
+  "settings": {
+    "minifyhtmlcss": false,
+    "minifyjs": false,
+    "fps": 30,
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "versionPostfix": "",
+    "export": {
+      "windows64": true,
+      "windows32": true,
+      "linux64": true,
+      "linux32": true,
+      "mac64": true,
+      "debug": false
+    },
+    "title": "Space Shooter",
+    "author": "Manas Taneja",
+    "site": "thisisyomans.github.io"
+  },
+  "scripts": [],
+  "fonts": [],
+  "styletick": null,
+  "palette": []
+}
